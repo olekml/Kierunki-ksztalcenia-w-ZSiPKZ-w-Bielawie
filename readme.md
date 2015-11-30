@@ -1,0 +1,2 @@
+<h1>Kierunki Kszta³cenia w Zespole Szkó³ i Placówek Kszta³cenia Zawodowego w Bielawie</h1>
+Aplikacja webowa przeznaczona jest dla uczniów, absolwentów gimnazjum, którzy aplikuj¹ na wybrany kierunek kszta³cenia w Zespole Szkó³ i Placówek Kszta³cenia Zawodowego.
