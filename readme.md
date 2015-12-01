@@ -1,0 +1,1 @@
+<h1>Kierunki Kształcenia w Zespole Szkół i Placówek Kształcenia Zawodowego w Bielawie</h1>Aplikacja webowa przeznaczona dla uczniów i absolwentów gimnazjów, którzy aplikuja na wybrany kierunek kształcenia w Zespole Szkół i Placówek Kształcenia Zawodowego.
