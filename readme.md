@@ -1,6 +1,25 @@
-<<<<<<< HEAD
-<h1>Kierunki Kształcenia w Zespole Szkół i Placówek Kształcenia Zawodowego w Bielawie</h1>Aplikacja webowa przeznaczona dla uczniów i absolwentów gimnazjów, którzy aplikuja na wybrany kierunek kształcenia w Zespole Szkół i Placówek Kształcenia Zawodowego.
-=======
-<h1>Kierunki Kszta�cenia w Zespole Szk� i Plac�wek Kszta�cenia Zawodowego w Bielawie</h1>
-Aplikacja webowa przeznaczona jest dla uczni�w, absolwent�w gimnazjum, kt�rzy aplikuj� na wybrany kierunek kszta�cenia w Zespole Szk� i Plac�wek Kszta�cenia Zawodowego.
->>>>>>> parent of 794b0d7... Revert "Revert "Revert "Pierwsza wersja"""
+<h1>Kierunki Kształcenia w Zespole Szkół i Placówek Kształcenia Zawodowego w Bielawie</h1>
+<b>Aplikacja webowa przeznaczona dla uczniów i absolwentów gimnazjów, którzy aplikuja na wybrany kierunek kształcenia w Zespole Szkół i Placówek Kształcenia Zawodowego.<b>
+
+<h2>Technologie które zostały wykorzystane do projektu: </h2>
+<ul>
+<li>HTML5</li>
+<li>CSS3</li>
+<li>JQUERY</li>
+</ul>
+Aplikacja w fazie przyszłego rozwoju.
+<br>
+Planowane jest dodanie podziału na województwa, miasta, szkoły.
+<br>
+Dzięki niej, uczeń będzie miał baze wszystkich szkół ponadgimnazjalnych w jednym miejscu, wraz z kierunkami i opisami zawodów.
+<br>
+Ponadto przysżły uczeń szkoły będzie miał wgląd do opinii na temat szkoły, którą jest zainteresowany.
+
+<h3><a href="http://kalkulatorsieci.5v.pl/kierunki/" target="_blank">DEMO STRONY</a></h3>
+
+
+<h2>Autorzy: </h2>
+<ul>
+<li>Adam Mikołajczyk</li>
+<li>Łukasz Szukalski</li>
+</ul>
