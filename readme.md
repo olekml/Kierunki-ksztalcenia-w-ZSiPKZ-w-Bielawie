@@ -15,7 +15,7 @@ Dzięki aplikacji Kierunki Kształcenia, uczeń będzie miał baze wszystkich sz
 <br>
 
 
-<h3><a href="http://kalkulatorsieci.5v.pl/kierunki/" target="_blank">DEMO STRONY</a></h3>
+<h3><a href="http://kierunkizsipkz.5v.pl/" target="_blank">DEMO STRONY</a></h3>
 
 
 <h2>Autorzy: </h2>
